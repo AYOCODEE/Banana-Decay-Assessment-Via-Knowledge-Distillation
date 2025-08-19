@@ -15,7 +15,7 @@ input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
 
 # Class labels
-class_names = ['overripe', 'ripe', 'rotten', 'unripe']
+class_names = ['Overripe', 'Ripe', 'Rotten', 'Unripe']
 
 # AWS S3 config
 S3_BUCKET = 'banananator'
