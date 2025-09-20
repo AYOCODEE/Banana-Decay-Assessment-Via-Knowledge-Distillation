@@ -57,15 +57,6 @@ Follow the instructions in the notebook. Make sure your image dataset is availab
 
 ---
 
-## Usage
-
-- Train and test the model using the provided notebook.
-- Upload banana images using the web interface (if available).
-- Get instant ripeness predictions.
-- Results and images can be saved for future model improvements.
-
----
-
 ## References
 
 - Main code and experiments: [`files/Banana_Resnet152.ipynb`](files/Banana_Resnet152.ipynb)
