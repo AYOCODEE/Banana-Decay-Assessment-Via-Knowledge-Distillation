@@ -10,19 +10,6 @@ The model is integrated into a web application designed for small retailers and 
 
 ---
 
-## Results
-
-You can showcase your results here using images, graphs, or tables.  
-For example:
-```
-![Confusion Matrix](images/confusion_matrix.png)
-![Sample Prediction](images/sample_prediction.png)
-```
-
----
-
-## Getting Started
-
 ### Prerequisites
 
 - Python 3.8+
@@ -53,7 +40,7 @@ Open the notebook:
 ```bash
 jupyter notebook files/Banana_Resnet152.ipynb
 ```
-Follow the instructions in the notebook. Make sure your image dataset is available at the path specified, or update the notebook paths as needed.
+Follow the instructions in the notebook. Make sure the image dataset is available at the path specified, or update the notebook paths as needed.
 
 ---
 
